@@ -1564,4 +1564,4 @@ Bittu
 
 - **tell()** → Current cursor position batata hai.
 - **seek()** → Cursor ko specific position par le jata hai.
-=======
+- **truncate()** → File ke content ko specified size tak cut kar deta hai.

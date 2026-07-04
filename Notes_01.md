@@ -1454,4 +1454,7 @@ Memory Management: Constructor object creation ke time memory ko allocate karta 
 
 Encapsulation: Constructor object ke properties ko initialize karke ek encapsulated environment create karta hai, jisme object ki internal details hidden hoti hain. Ye concept OOP (Object-Oriented Programming) ka ek part hai.
 
-# <<<--- ThankYou   ---->>>
+
+```python
+
+```
